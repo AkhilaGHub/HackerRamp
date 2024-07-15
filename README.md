@@ -22,3 +22,7 @@ Welcome to FashionMitra, your ultimate platform where fashion meets technology. 
 
 ### FashionConnect
 ![FashionConnect](https://github.com/user-attachments/assets/f3b24be0-7c25-4d6e-b632-fd71d9ec7a15)
+
+### CustomerChaining
+![image](https://github.com/user-attachments/assets/c0c9ded9-1e1c-42c8-b48c-c72744cfb1e2)
+![WhatsApp Image 2024-07-15 at 23 11 59_3121b108](https://github.com/user-attachments/assets/3cee2f5f-641c-4a68-ad19-eda981899cd3)
