@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login and Signup</title>
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Chivo:300,700|Playfair+Display:700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/style_index.css">
+    <link rel="stylesheet" href="css/demo.css">
+    <link rel="stylesheet" href="css/nav.css">
+    <link rel="stylesheet" href="css/categories.css">
+    <link rel="stylesheet" href="css/login.css">
+</head>
+<body style="background-color: #ffffff ;">
+    <!-- navbar -->
+    <nav>
+        <div class="logo">
+            <h3><a href="merlin.html" class="logo-name">Merlin Fashion</a></h3>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="categories.html">Categories</a></li>
+            <li><a href="contact.html">ContactUs</a></li>
+            <li><a href="login.html" id="login">Login</a></li>
+        </ul>
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+    </nav>
+    <!-- navbar -->
+
+    <div class="forms">
+        <div class="form-container">
+            <h2>LOGIN HERE 🦄</h2>
+            <div class="login-form">
+                <input type="text" placeholder="Username Or Email" id="login-username">
+                <br><br>
+                <input type="password" placeholder="Password" id="login-password"><br><br>
+                <button class="login-button" onclick="login()">LOG IN</button>&nbsp;&nbsp;
+                <a href="index.html"><button class="back-button">BACK</button></a>
+            </div>
+        </div>
+        
+        <div class="form-container">
+            <h2>SIGN UP HERE 🦄</h2>
+            <div class="signup-form">
+                <input type="text" placeholder="Username" id="signup-username">
+                <br><br>
+                <input type="password" placeholder="Password" id="signup-password"><br><br>
+                <input type="date" placeholder="Date of Birth" id="signup-dob"><br><br>
+                <button class="signup-button" onclick="signup()">SIGN UP</button>&nbsp;&nbsp;
+                <a href="index.html"><button class="back-button">BACK</button></a>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="js/nav.js"></script>
+    <script src="js/login.js"></script>
+    <script src="js/signup.js"></script>
+</body>
+</html>
