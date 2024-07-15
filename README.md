@@ -25,4 +25,5 @@ Welcome to FashionMitra, your ultimate platform where fashion meets technology. 
 
 ### CustomerChaining
 ![image](https://github.com/user-attachments/assets/c0c9ded9-1e1c-42c8-b48c-c72744cfb1e2)
-![WhatsApp Image 2024-07-15 at 23 11 59_3121b108](https://github.com/user-attachments/assets/3cee2f5f-641c-4a68-ad19-eda981899cd3)
+![image](https://github.com/user-attachments/assets/83def429-3270-4f48-904a-d8d2a34b760a)
+
