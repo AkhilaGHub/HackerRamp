@@ -1,6 +1,7 @@
 # FashionMitra: Where Fashion Meets Technology
 
-![FashionMitra](https://github.com/user-attachments/assets/8a3f4d8e-dd24-48f6-a489-aa00fa0596d2)
+![FashionMitra](![image](https://github.com/user-attachments/assets/27ba66bf-2bce-465f-8718-5652572c61d5)
+)
 
 Welcome to FashionMitra, your ultimate platform where fashion meets technology. Explore the world of style with interactive features and innovative solutions tailored just for you.
 
