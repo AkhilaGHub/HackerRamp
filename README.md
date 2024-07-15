@@ -1,6 +1,6 @@
 # FashionMitra: Where Fashion Meets Technology
 
-###[FashionMitra]
+###  FashionMitra
 ![image](https://github.com/user-attachments/assets/27ba66bf-2bce-465f-8718-5652572c61d5)
 
 
